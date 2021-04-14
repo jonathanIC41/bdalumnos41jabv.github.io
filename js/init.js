@@ -7,7 +7,7 @@
  * quedar igual que en tu
  * servidor. */
 // @ts-ignore
-fvar firebaseConfig = {
+var firebaseConfig = {
     apiKey: "AIzaSyDjQZ58Whsg1097-ejejRw3U0Y993Q-1es",
     authDomain: "bdalumic41jabv.firebaseapp.com",
     projectId: "bdalumic41jabv",
